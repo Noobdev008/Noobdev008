@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to work as **Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/Noobdev008?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhamportfolio.vercel.app/)**
 
 - 📫 How to reach me **shubhamsri0807@gmail.com**
 
