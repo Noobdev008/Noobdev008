@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+- 🔭 I’m currently working at **[Appventurez](https://www.appventurez.com/)**
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 👯 I’m looking to work as **Web Developer**
 
