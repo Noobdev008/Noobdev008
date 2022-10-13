@@ -33,13 +33,14 @@
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwind&logoColor=white" />&nbsp;&nbsp;
+       <img src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
     <a href="https://github.com/Noobdev008/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Noobdev008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Noobdev008&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
