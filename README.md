@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://tenor.com/blOVi.gif" width="30px">, I'm Shubham Srivastava</h1>
-<h3 align="center">I'm a passionate learner of Full Stack Developement from Masai School.</h3>
+<h3 align="center">I'm a passionate learner of Full Stack Developement.</h3>
 
 
 ## 🙋‍♂️ About Me
