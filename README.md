@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Trivial]((https://trivialworks.com/))**
+- 🔭 I’m currently looking for the new role.
 
 - 🌱 I’m a **Full Stack Web Developer**
 
