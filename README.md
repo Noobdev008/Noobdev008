@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://tenor.com/blOVi.gif" width="30px">, I'm Shubham Srivastava</h1>
+<h1 align="center">Hi, I'm Shubham Srivastava</h1>
 <h3 align="center">I'm a Full Stack Developer with a passion for creating robust, scalable web applications. Proficient in both front-end and back-end technologies. Experienced in database management, API integration and deployment processes.</h3>
 
 
