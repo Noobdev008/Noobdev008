@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to work as **Web Developer**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhamsrivastava.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shubhamsri.netlify.app/)**
 
 - 📫 How to reach me **shubhamsri0807@gmail.com**
 
